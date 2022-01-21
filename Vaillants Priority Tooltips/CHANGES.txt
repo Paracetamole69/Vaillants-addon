@@ -1,0 +1,51 @@
+Ver 1.0 : Add prio : Prêtre heal - SP // Paladin heal // druide heal // chaman Heal
+Ver 1.2 : changement de la présentation du tooltips, ordre de prio de P5 à P1 
+Ver 1.7
+•	Prêtres heal P1=>P5(+craft) 
+•	Prêtres SP P1/P2/P3(+craft)
+•	Druide Ours P2
+•	Druide Equi P1/P2
+•	Druide Heal P1=>P5
+•	Chamane Enh P1=>P5(+craft)
+•	Chasseur BM P1=>P5(+craft)
+•	War Prot P1/P2/P3
+•	Paladin Heal P1=>P5
+•	Paladin Ret P1=>P5
+•	Mage Arc P1/P2
+Ver 1.8 
+•	Chaman Elem P1/P2/P3
+•	Chasseur Survival P1/P2/P3
+•	Chasseur Mark P1/P2/P3	
+•	Druide Cat P1/P2/P3
+•	War Arm P1/P2/P3
+•	War Fury P1/P2/P3
+
+Ver 1.9 
+
+Demo Affli P1/P2/P3
+Demo Destru P1/P2/P3
+Mage Arc P3
+Token / Magtheridon head 
+
+Ver 2.0 
+Mage Fire P1/P2/P3
+Mage Frost P1/P2/P2
+Rogue Ass P1/P2/P2
+Rogue Combat P1/P2/P2
+Paladin Prot P1/P2/P2
+
+All Class & Spec P1/P2/P3
+
+------
+
+Ver 2.1 
+
+Reward for kael'thas (neck) 
+
+Ver 2.1.1
+
+Change Prist holy P3 Main hands
+
+Ver 2.3
+
+Change Mage Arc neck P3

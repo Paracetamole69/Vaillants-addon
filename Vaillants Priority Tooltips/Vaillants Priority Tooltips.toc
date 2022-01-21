@@ -1,0 +1,9 @@
+## Interface: 20502
+## Title: Vaillants Priority Tooltips
+## Notes: Adds raid priorities and notes to item tooltips
+## Author: Paracétamole 
+## Version: 2.3
+
+main.lua
+Vaillants.lua
+miscItems.lua
